@@ -13,9 +13,6 @@ HTML/CSS
 
 ##How to Run
 Clone the repo
-bash
-Copy
-Edit
 git clone git@github.com:mirnaelsheikhh/Travenu.git
 Open index.html in your browser
 
