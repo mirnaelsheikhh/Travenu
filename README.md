@@ -11,9 +11,4 @@ Media gallery to show off your vacation pics
 ##Tech Stack
 HTML/CSS
 
-##How to Run
-Clone the repo
-git clone git@github.com:mirnaelsheikhh/Travenu.git
-Open index.html in your browser
-
 Daydream about your next holiday
